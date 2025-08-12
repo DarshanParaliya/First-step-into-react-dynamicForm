@@ -41,5 +41,7 @@ h1{
   .data_val {
     width: 90% !important;
     justify-content: space-between;
-    }
+    flex-direction: row; /* ya column agar vertically chahte ho */
+    flex-wrap: wrap; /* takki chhote screens pe items neeche aa sake */
+  }
 }
