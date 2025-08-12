@@ -40,5 +40,6 @@ h1{
 @media (max-width:425px){
   .data_val {
     width: 90%;
+    
     }
 }
