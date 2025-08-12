@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First-step-into-react-dynamicForm/static/css/main.58c404da.css",
+    "main.js": "/First-step-into-react-dynamicForm/static/js/main.c65da892.js",
+    "static/js/453.922cb58b.chunk.js": "/First-step-into-react-dynamicForm/static/js/453.922cb58b.chunk.js",
+    "index.html": "/First-step-into-react-dynamicForm/index.html",
+    "main.58c404da.css.map": "/First-step-into-react-dynamicForm/static/css/main.58c404da.css.map",
+    "main.c65da892.js.map": "/First-step-into-react-dynamicForm/static/js/main.c65da892.js.map",
+    "453.922cb58b.chunk.js.map": "/First-step-into-react-dynamicForm/static/js/453.922cb58b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c404da.css",
+    "static/js/main.c65da892.js"
+  ]
+}
